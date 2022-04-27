@@ -5,6 +5,8 @@ I'm currently learnig DESARROLLO DE APLICACIONES CON TECNOLOGÍA WEB
 ![exoplaneta_redes](https://user-images.githubusercontent.com/104456566/165585904-06a1e837-08b5-4fce-a9ad-16df76a848c0.jpg)
 
 Ask me about desarrollo de aplicaciones con tecnología web
+Freelance full-stack iOS & Android engineer
+
 <!--
 **ElLince/ElLince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
